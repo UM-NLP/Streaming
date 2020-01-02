@@ -1,0 +1,12 @@
+mimos/ai/nlp/EnglishSentenceBolt.class
+mimos/ai/nlp/OutputBolt.class
+mimos/ai/nlp/SentimentBolt.class
+mimos/ai/nlp/SplitBolt.class
+mimos/ai/nlp/ForeignSentenceBolt.class
+mimos/ai/nlp/LanguageBolt.class
+mimos/ai/nlp/Sentiment.class
+mimos/ai/nlp/LemmaBolt.class
+mimos/ai/nlp/WordReaderSpout.class
+mimos/ai/nlp/PipelineTopology.class
+mimos/ai/nlp/POSBoltForeign.class
+mimos/ai/nlp/POSBoltEnglish.class
